@@ -1,0 +1,18 @@
+{
+    "token": "NDIxMzkwNzI1Mjk3NjAyNTgw.Xs2nIQ.jXmB1QDUPEK_xNt5Dq5FWCStH0k",
+    "password": "TATTER2005",
+    "prefix": "!",   
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": false,
+    "privnote_sniper": false,
+
+    "stream_url": "https://twitch.tv/lativ",
+    "tts_language": "en",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "weather-key-here",
+    "cuttly_key": "cuttly-key-here"
+}
