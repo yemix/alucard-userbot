@@ -4,7 +4,7 @@ This is a bot logged in as a user. The code was used from alucard-selfbot!
 - selfbot commands
 
 ### Install
-Open command promp and run "python3 -m pip install -r requirements.txt.
+Open command promp and run "python3 -m pip install -r requirements.txt or launch the install.bat
 
 After that enter your login-details in config.json.
 
