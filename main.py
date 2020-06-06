@@ -1990,7 +1990,7 @@ async def play(ctx, *, url: str):
     voice.source.volume = 0.50
 
     nname = name.rsplit("-", 2)
-    #await ctx.send(f"Playing: {nname[0]}")
+    await ctx.send(f"Playing: {nname[0]}")
     print("playing\n")
 
 if __name__ == '__main__':
