@@ -10,5 +10,9 @@ After that enter your login-details in config.json.
 
 Launch launch.bat.
 
+### READ!
+Not every command work 100%.
+
+Script is a little bit outdated but i try to get it back!
 ### Credits
 BombenProdukt#1337 and coats.#1337
