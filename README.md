@@ -15,4 +15,4 @@ Not every command work 100%.
 
 Script is a little bit outdated but i try to get it back!
 ### Credits
-BombenProdukt#1337 and coats.#1337
+yemix#8216 and coats.#1337
